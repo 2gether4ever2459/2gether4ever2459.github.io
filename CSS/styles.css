@@ -8,6 +8,7 @@
  /* Baseline layout */
 h1 {
     text-align: center;
+    font-size: 1.75em;
 }
 
 .content {
@@ -24,6 +25,7 @@ h2 {
     text-align: center;
     border-left: 2px solid black;
     border-bottom: 2px solid black;
+    font-size: 1.25em
 }
 
 p {
